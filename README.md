@@ -5,7 +5,7 @@
 
 <h3>Languages</h3>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=typescript,javascript,css,html,scss" alt="TypeScript, JavaScript, CSS, HTML, SCSS">
+        <img src="https://skillicons.dev/icons?i=typescript,javascript,css,html,scss,go,rust" alt="TypeScript, JavaScript, CSS, HTML, SCSS, Go, Rust">
     </a>
 
  <h3>Tools I Use</h3>
